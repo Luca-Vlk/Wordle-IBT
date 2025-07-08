@@ -1,8 +1,8 @@
-## Wordle-Vuetify Project
-# Authors: Merle Epping, Luca Völker and Matteo Nollenberg
-
-
-# To start the game WITH a Database do following things:
+# Wordle-Vuetify Project 
+### Authors: Merle Epping, Luca Völker and Matteo Nollenberg
+#
+#
+## To start the game WITH a Database do following things:
 
 Setup a local Database with mysql:
 - install mysql and set the password to: 1234
@@ -18,7 +18,7 @@ Run the game:
 - Run: go run .\src\main.go
 
 
-# To start the game WITHOUT a Database do following things:
+## To start the game WITHOUT a Database do following things:
 
 Setup the game:
 - open a terminal in this directory: wordle-proket-ibt/Wordle-Vuetify
