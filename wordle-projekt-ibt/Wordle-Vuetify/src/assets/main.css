@@ -1,0 +1,36 @@
+.wordle-cell {
+  font-weight: bold;
+  caret-color: transparent;
+}
+.wordle-cell .v-field__input {
+  height: 80px !important;
+  width: 80px !important;
+  padding: 0 !important;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.autofit-width {
+  width: max-content !important;
+}
+.autofit-margin {
+  margin: 0 auto;
+}
+
+
+.color-grey {
+  background-color: #d3d3d3 !important;
+}
+.v-theme--dark .color-grey {
+  background-color: #4f5555 !important;
+}
+.color-green {
+  background-color: #40b882 !important;
+}
+.color-orange {
+  background-color: #ffa500 !important;
+}
