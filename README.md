@@ -11,10 +11,11 @@ Setup a local Database with mysql:
 - Run: CREATE TABLE data (Name varchar(15), Versuche int, Wort varchar(5));
 
 Setup the game:
-- open a terminal in this directory: wordle-proket-ibt/Wordle-Vuetify
+- Open a terminal in this directory: wordle-proket-ibt/Wordle-Vuetify
 - Run: npm intsall
 - Run: npm install chart.js vue-chartjs
 - Run: npm run build
+
 Run the game:
 - Run: go run .\src\main.go
 
@@ -22,8 +23,9 @@ Run the game:
 ## To start the game WITHOUT a Database do following things:
 
 Setup the game:
-- open a terminal in this directory: wordle-proket-ibt/Wordle-Vuetify
+- Open a terminal in this directory: wordle-proket-ibt/Wordle-Vuetify
 - Run: npm intsall
 - Run: npm install chart.js vue-chartjs
+
 Run the game:
 - Run: npm run dev
